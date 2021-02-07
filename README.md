@@ -1,5 +1,7 @@
-### Hey! こんにちは！　Merhaba! 👋
+### Hey! こんにちは！ Merhaba! 👋
+
+[![GitHub Logo](Profile.png)
+](https://onurusluca.me/)
 
 
 [Find more about me.](https://onurusluca.me/)
-![GitHub Logo](Profile.png)
