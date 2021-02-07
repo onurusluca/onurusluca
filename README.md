@@ -4,4 +4,4 @@
 ](https://onurusluca.me/)
 
 
-## [Find more about me. :D](https://onurusluca.me/)
+## [Find more about me. 😄](https://onurusluca.me/)
